@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">localization</string>
+    <string name="greeting_message_arabic">مرحباً بالعالم!</string>
+    <string name="greeting_message">Hello, World!</string>
+</resources>
