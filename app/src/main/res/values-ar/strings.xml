@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">localization</string>
+    <string name="welcome_title">مرحبا بكم في الترجمة!</string>
+    <string name="hello">مرحبًا!</string>
+</resources>
