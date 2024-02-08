@@ -35,9 +35,6 @@ proguard/
 # Crashlytics configuations
 com_crashlytics_export_strings.xml
 
-# Gradle wrapper properties file
-gradle-wrapper.properties
-
 # Auto-generated build config
 buildConfig/
 
