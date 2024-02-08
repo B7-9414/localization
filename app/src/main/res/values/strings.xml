@@ -1,8 +1,5 @@
 <resources>
-    <string name="localization">localization</string>
-    <string name="greeting_message">Hello, World!</string>
-    <string name="greeting_message_arabic">مرحبا بالعالم!</string>
-    <string name="greeting_message_spanish">¡Hola, Mundo!</string>
-    <string name="greeting_message_french">Bonjour le monde !</string>
-    <string name="switch_language">Switch Language</string>
+    <string name="app_name" translatable="false">localization</string>
+    <string name="welcome_title">Welcome to Localization!</string>
+    <string name="hello">Hello!</string>
 </resources>
